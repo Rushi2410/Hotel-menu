@@ -1,0 +1,16 @@
+*{
+ box-sizing: border-box;
+}
+.submain{
+    /* height: 400px; */
+    width: 300px;
+    border: 1px solid black;
+    margin: 10px;
+
+     text-align: center;
+}
+.gal{
+    height: 250px; 
+    width: 100%; 
+    border: 1px solid red;
+}
